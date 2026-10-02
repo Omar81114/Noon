@@ -1,0 +1,10 @@
+h1, h2, h3, h4 {
+    border-style: dotted;
+    border-radius: 20px;
+    background-color: yellow;
+    color: black;
+}
+body {
+    background-color: rgba(232, 239, 10, 0.653);
+    text-align: center;
+}
